@@ -1,1 +1,1 @@
-# Hackerrank_Project_Euler
+# Hackerrank Project Euler
